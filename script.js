@@ -101,7 +101,7 @@ if (checklistButton && checklist) {
 if (contactForm) {
   contactForm.addEventListener("submit", function (event) {
     event.preventDefault();
-    alert("Contact form is working!");
+    
 
     if (!contactForm.reportValidity()) return;
 
