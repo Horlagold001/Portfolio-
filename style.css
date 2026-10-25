@@ -102,7 +102,7 @@ select:focus-visible {
   right: 0;
   width: 100%;
   padding-left: max(20px, calc((100% - 1160px) / 2));
-  padding-right: max(20px, calc((100% - 1160px) / 2));
+  padding-right: 32px;
   z-index: 1000;
   background: var(--background);
   box-sizing: border-box;
